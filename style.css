@@ -73,3 +73,21 @@ footer .footer-copyright
     font-size:0.9em;
 
 }
+.container-subscriber
+{
+    text-align:center;
+    margin:5px auto;
+    font-size:10px;
+}
+.container-subscriber input,.container-subscriber h1
+{
+margin:7px 0px;
+
+}
+.container-subscriber #submit
+{
+    background-color: yellow;
+    padding:5px;
+    font-weight:bolder;
+    width:120px;border:none;
+}
