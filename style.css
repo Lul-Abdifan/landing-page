@@ -55,3 +55,8 @@
     font-weight: 700;
 
 }
+#HowItWorks{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
